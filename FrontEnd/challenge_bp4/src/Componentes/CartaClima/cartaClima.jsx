@@ -1,5 +1,5 @@
 import './CartaClima.css'
-import MetaWeatherRequest from '../../Services/MetaWeather';
+import MetaWeatherRequest from '../../Servicios/MetaWeather';
 import Clima from '../Clima/clima';
 import { ciudadesImportantes } from '../../Datos/ciudades';
 function CartaClima() {

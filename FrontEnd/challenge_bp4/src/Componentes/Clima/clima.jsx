@@ -1,7 +1,7 @@
 import './Clima.css'
 import { ciudadesImportantes } from '../../Datos/ciudades';
 import { useState } from 'react';
-import MetaWeatherRequest from '../../Services/MetaWeather';
+import MetaWeatherRequest from '../../Servicios/MetaWeather';
 import DatosActuales from '../DatosActuales/datosActuales';
 import DatosProximasHoras from '../DatosProximasHoras/DatosProximasHoras';
 
